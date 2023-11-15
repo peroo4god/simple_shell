@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+/**
+ * print_numbers - Prints numbers from 1 to 20
+ *
+ * Description: This function uses a loop to print numbers from
+ *              1 to 20 on separate lines.
+ * main - Entry point of the program
+ *
+ * Return: 0 on success
+ */
+int main(void)
+void print_numbers(void)
+{
+        int i;
+
+        for (i = 1; i <= 20; i++)
+        {
+                printf("%d\n", i);
+        }
+}
+{
+	print_numbers();
+
+	return 0;
+}
